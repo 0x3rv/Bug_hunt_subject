@@ -1,0 +1,95 @@
+{
+  "main": {
+    "id": "81b1c4a333316cd8",
+    "type": "split",
+    "children": [
+      {
+        "id": "992ab271f2623b38",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "vimeo.com.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0f37ac4ccd5f479f",
+    "type": "split",
+    "children": [
+      {
+        "id": "a4085b7e38d18775",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9511c43b001a5c43",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "4cf9fc408da784f7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b35faa23e5732945",
+    "type": "split",
+    "children": [
+      {
+        "id": "b91b7d3d5c63ddbe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4fd176abdcb9e31b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "vimeo.com.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "992ab271f2623b38",
+  "lastOpenFiles": [
+    "vimeo.com.md",
+    "test_list.md"
+  ]
+}
