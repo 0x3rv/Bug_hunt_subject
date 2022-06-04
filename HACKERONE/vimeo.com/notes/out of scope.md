@@ -1,0 +1,6 @@
+- All No MS versions will be accepted.
+- *.email.vimeo.com
+- vimeo.atlassian.net
+- *.wirewax.com
+- *.wirewax.app
+- *.wibbitz.com
