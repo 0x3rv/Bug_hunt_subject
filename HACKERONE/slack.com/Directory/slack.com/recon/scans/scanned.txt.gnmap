@@ -1,0 +1,1400 @@
+# Nmap 7.80 scan initiated Fri Jun 10 18:26:08 2022 as: nmap -iL slack.com/recon/httprobe/alive.txt -T4 -oA slack.com/recon/scans/scanned.txt
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 34.195.54.161 (ec2-34-195-54-161.compute-1.amazonaws.com)	Status: Up
+Host: 34.195.54.161 (ec2-34-195-54-161.compute-1.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 54.227.27.0 (ec2-54-227-27-0.compute-1.amazonaws.com)	Status: Up
+Host: 54.227.27.0 (ec2-54-227-27-0.compute-1.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 54.198.234.186 (ec2-54-198-234-186.compute-1.amazonaws.com)	Status: Up
+Host: 54.198.234.186 (ec2-54-198-234-186.compute-1.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 107.23.155.108 (ec2-107-23-155-108.compute-1.amazonaws.com)	Status: Up
+Host: 107.23.155.108 (ec2-107-23-155-108.compute-1.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 15.207.255.25 (ec2-15-207-255-25.ap-south-1.compute.amazonaws.com)	Status: Up
+Host: 15.207.255.25 (ec2-15-207-255-25.ap-south-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 15.207.191.156 (ec2-15-207-191-156.ap-south-1.compute.amazonaws.com)	Status: Up
+Host: 15.207.191.156 (ec2-15-207-191-156.ap-south-1.compute.amazonaws.com)	Ports: 443/open/tcp//https///	Ignored State: filtered (999)
+Host: 13.251.182.0 (ec2-13-251-182-0.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.251.182.0 (ec2-13-251-182-0.ap-southeast-1.compute.amazonaws.com)	Ports: 443/open/tcp//https///	Ignored State: filtered (999)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 184.73.83.160 (ec2-184-73-83-160.compute-1.amazonaws.com)	Status: Up
+Host: 184.73.83.160 (ec2-184-73-83-160.compute-1.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 54.227.27.0 (ec2-54-227-27-0.compute-1.amazonaws.com)	Status: Up
+Host: 54.227.27.0 (ec2-54-227-27-0.compute-1.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 54.198.234.186 (ec2-54-198-234-186.compute-1.amazonaws.com)	Status: Up
+Host: 54.198.234.186 (ec2-54-198-234-186.compute-1.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 54.192.150.79 (server-54-192-150-79.sin2.r.cloudfront.net)	Status: Up
+Host: 54.192.150.79 (server-54-192-150-79.sin2.r.cloudfront.net)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 15.207.255.25 (ec2-15-207-255-25.ap-south-1.compute.amazonaws.com)	Status: Up
+Host: 15.207.255.25 (ec2-15-207-255-25.ap-south-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 15.207.255.25 (ec2-15-207-255-25.ap-south-1.compute.amazonaws.com)	Status: Up
+Host: 15.207.255.25 (ec2-15-207-255-25.ap-south-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 152.199.39.108 ()	Status: Up
+Host: 152.199.39.108 ()	Ports: 80/open/tcp//http///, 443/open/tcp//https///, 1119/closed/tcp//bnetgame///, 1935/closed/tcp//rtmp///	Ignored State: filtered (996)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 54.179.65.250 (ec2-54-179-65-250.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 54.179.65.250 (ec2-54-179-65-250.ap-southeast-1.compute.amazonaws.com)	Ports: 443/open/tcp//https///	Ignored State: filtered (999)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 3.0.66.145 (ec2-3-0-66-145.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 18.136.169.56 (ec2-18-136-169-56.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Status: Up
+Host: 13.213.164.176 (ec2-13-213-164-176.ap-southeast-1.compute.amazonaws.com)	Ports: 80/open/tcp//http///, 443/open/tcp//https///	Ignored State: filtered (998)
+# Nmap done at Fri Jun 10 18:35:33 2022 -- 699 IP addresses (699 hosts up) scanned in 565.19 seconds
