@@ -1,0 +1,153 @@
+{
+  "main": {
+    "id": "7aaa87b1d5dd9722",
+    "type": "split",
+    "children": [
+      {
+        "id": "d0a81b35595c1947",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f2f3699e26c0a03d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "up.gov.in.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "57092f375590110c",
+    "type": "split",
+    "children": [
+      {
+        "id": "24f2e7a76d4dabdf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9164af2c800c6964",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "072f5b045ac9019e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9125348e214c73cd",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "fff9cc0398dff8a8",
+    "type": "split",
+    "children": [
+      {
+        "id": "d9f3084968572bb8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fa46ee51c6c17f98",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "up.gov.in.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b84f9091837aced6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "up.gov.in.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4462cee2ec45f1bb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "670ecaa359c8da79",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "up.gov.in.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "f2f3699e26c0a03d",
+  "lastOpenFiles": [
+    "up.gov.in.md"
+  ]
+}
